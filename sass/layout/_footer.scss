@@ -37,8 +37,10 @@
     margin-top: 9px;
   }
 }
+
 .address__link {
   @include font(400, 14px, 24 / 14, 00.03em);
+  font-style: normal;
 
   transition: color var(--transition);
 
