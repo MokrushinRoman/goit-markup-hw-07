@@ -328,6 +328,10 @@ img {
   display: block;
 }
 
+address {
+  font-style: normal;
+}
+
 .visually-hidden {
   border: 0;
   padding: 0;
@@ -1277,7 +1281,6 @@ img {
 }
 
 .address__link {
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.7142857143;
   letter-spacing: 0.03em;

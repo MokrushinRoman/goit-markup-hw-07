@@ -39,8 +39,8 @@
 }
 
 .address__link {
-  @include font(400, 14px, 24 / 14, 00.03em);
-  font-style: normal;
+  @include font(null, 14px, 24 / 14, 00.03em);
+
 
   transition: color var(--transition);
 
